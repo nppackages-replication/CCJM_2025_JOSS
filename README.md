@@ -1,4 +1,4 @@
-# Cattaneo, Chandak, Jansson and Ma (2024)
+# Cattaneo, Chandak, Jansson and Ma (2025, JOSS)
 
 Replication scripts for software article.
 
